@@ -10,6 +10,7 @@
 8. [Code Review](#code-review)
 9. [Environments & Deployment](#environments--deployment)
 10. [Source Versioning](#source-versioning)
+11. [Dependency Management](#dependency-management)
 
 ## Orientation
 #### App map
@@ -61,8 +62,17 @@ Append-only migration rules, RLS policy requirements, staging-first mandate, rol
 #### Feature flag approach
 #### Smoke test requirements
 
-# Source Versioning
+## Source Versioning
 #### Calendar versioning
 (CalVer YYYY.MM.DD) per component
 #### GitHub 
 Release process, when to cut a release, rollback reference via Vercel.
+
+## Dependency Management
+#### Legacy peer-deps policy for admin app
+#### Security Patch Response Windows
+* Critical: 48 h
+* High: 1 week
+* Medium + Low: next sprint
+
+
