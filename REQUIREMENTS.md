@@ -12,7 +12,7 @@ This file captures the high-level product requirements for the DonorEze platform
 
 **Stage:** Pre-launch. MVP targets 10 small orgs and first real donation. Beta targets 100 small-to-medium orgs and first revenue toward a funding round.
 
-**MVP scope:** Card payments only. No crypto, stock, DAF, or multi-asset settlement. No adjacencies (grants, volunteers, events).
+**MVP scope:** ACH and Card payments only. No crypto, stock, DAF, or multi-asset settlement. No adjacencies (grants, volunteers, events).
 
 **Central flywheel (org side):** TrustScore → SmartMatch ranking → Donor flow → Stewardship → TrustScore
 
