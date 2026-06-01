@@ -1,8 +1,10 @@
 # Source Control Policy & Procedures
-## Donorli Engineering Team
+## DonorEze Engineering Team
 
 **Version:** 1.0
+
 **Effective Date:** June 2026
+
 **Owner:** Wm. Dexter Jones, fCTO
 
 ---
@@ -11,7 +13,7 @@
 
 Source control is how a development team manages changes to code over time. Think of it like Google Docs version history — but purpose-built for software, with rules about who can change what and when. Without it, developers overwrite each other's work, bugs get introduced silently, and there is no safe way to "roll back" a bad change.
 
-As Donorli scales from Alpha to a fundable Beta, establishing a disciplined source control practice now will:
+As DonorEze scales from Alpha to a fundable Beta, establishing a disciplined source control practice now will:
 
 - Protect the production product from unstable code changes
 - Give QA and testers a stable, predictable environment to test against
@@ -269,4 +271,4 @@ Questions? Reach out to Dexter Jones or raise in the #engineering channel.
 
 ---
 
-*Donorli Engineering — Source Control Policy v1.0 — June 2026*
+*DonorEze Engineering — Source Control Policy v1.0 — June 2026*
